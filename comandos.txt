@@ -1,0 +1,4 @@
+1. entras a la carpeta
+2. escribes en la terminal npm install ó yarn
+3. escribes node app.js ó nodemon app.js
+4. pruebas
